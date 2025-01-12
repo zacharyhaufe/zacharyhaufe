@@ -2,6 +2,7 @@
 
 <h2> Coding Projects:</h2>
 
+- [CPU Design](https://github.com/zacharyhaufe/CPUDesign)
 - [WVU Enrollment Problem](https://github.com/zacharyhaufe/WVUEnrollmentProblem)
 
 <h2> Contact me:</h2>
