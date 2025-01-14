@@ -2,6 +2,7 @@
 
 <h2> Coding Projects:</h2>
 
+- [File and Data Tables](https://github.com/zacharyhaufe/FileAndDataTables)
 - [CPU Design](https://github.com/zacharyhaufe/CPUDesign)
 - [WVU Enrollment Problem](https://github.com/zacharyhaufe/WVUEnrollmentProblem)
 
