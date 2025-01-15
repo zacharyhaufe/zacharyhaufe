@@ -4,6 +4,7 @@
 
 - [File and Data Tables](https://github.com/zacharyhaufe/FileAndDataTables)
 - [CPU Design](https://github.com/zacharyhaufe/CPUDesign)
+- [WV Population Density](https://github.com/zacharyhaufe/WvPopulationDensity)
 - [WVU Enrollment Problem](https://github.com/zacharyhaufe/WVUEnrollmentProblem)
 
 <h2> Contact me:</h2>
