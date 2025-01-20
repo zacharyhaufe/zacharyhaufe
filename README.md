@@ -1,5 +1,8 @@
 <h1>Hi, I'm Zachary! <br/><a </h1>
 
+<h2> About me:</h2>
+I am a student at West Virginia University majoring in Computer Science. I plan to graduate in May 2026. I have coding experience in Java, C, and digital logic design in VHDL.
+
 <h2> Coding Projects:</h2>
 
 - [File and Data Tables](https://github.com/zacharyhaufe/FileAndDataTables)
